@@ -1,0 +1,34 @@
+name: Jekyll CI/CD Build and Deploy
+
+on:
+  push:
+    branches: [ main ]   # Runs only when pushing to main branch
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Ruby for Jekyll
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.1
+
+    - name: Install Jekyll and Bundler
+      run: |
+        gem install bundler
+        bundle install || true  # Continue if Gemfile is missing
+
+    - name: Build Jekyll Site
+      run: |
+        bundle exec jekyll build
+        ls _site  # Optional: list the output to verify
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
