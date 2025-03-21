@@ -23,37 +23,37 @@ The platform provides AI-generated guides, printable templates, and research con
 ├── blog/                         # AI-generated LIS research articles and studies
 
 
-│    ├── metadata-guide.md
+    │    ├── metadata-guide.md
 
 
-│    ├── digital-preservation.md
+    │    ├── digital-preservation.md
 
 
-│    └── typology-study.md
+    │    └── typology-study.md
 
 
 ├── templates/                    # Printable LIS templates (MARC, Dublin Core, etc.)
 
 
-│    ├── dublin-core-template.md
+    │    ├── dublin-core-template.md
 
-│    ├── premise-template.md
+    │    ├── premise-template.md
 
-│    └── mods-template.md
+    │    └── mods-template.md
 
 ├── resources/                    # Visual infographics, diagrams, and PDFs
 
-│    ├── knowledge-graph.png
+    │    ├── knowledge-graph.png
 
-│    └── preservation-workflow.pdf
+    │    └── preservation-workflow.pdf
 
 ├── assets/                       # Design assets, custom styles, images
 
-│    ├── css/style.css
+    │    ├── css/style.css
 
-│    ├── js/
+    │    ├── js/
 
-│    └── images/
+    │    └── images/
 
 ├── LICENSE                       # MIT License for the website's source code
 
