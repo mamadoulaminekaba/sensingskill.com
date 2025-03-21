@@ -2,11 +2,9 @@
     SensingSkill.com — AI-Supported LIS Knowledge Platform
     Empowering information professionals with human-executable, AI-generated content and manual LIS workflows.
     
-#Project Purpose
-    SensingSkill.com is an AI-enhanced, human-centered knowledge platform designed for librarians, archivists, and information professionals — especially those working in resource-limited environments.
-    
+🚀 Project Purpose
 
-    The platform provides AI-generated guides, printable templates, and research content for manual or hybrid digital preservation, metadata organization, and LIS research workflows.
+    SensingSkill.com is an AI-enhanced, human-centered knowledge platform designed for librarians, archivists, and information professionals — especially those working in resource-limited environments. The platform provides AI-generated guides, printable templates, and research content for manual or hybrid digital preservation, metadata organization, and LIS research workflows.
 
 
 
