@@ -1,0 +1,63 @@
+# _config.yml for SensingSkill.com
+
+# Site settings
+title: "SensingSkill.com"
+description: "AI-supported, human-centered LIS knowledge platform for manual and hybrid information workflows."
+url: "https://www.sensingskill.com"
+baseurl: ""  # Leave blank for GitHub Pages root deployment
+author: "Mamadou Lamine Kaba"
+email: "workflow@sensingskill.com"
+
+# Build settings
+markdown: kramdown
+theme: minima  # Can change if you add a custom theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO and social sharing defaults
+twitter_username: ""
+github_username: "mamadoulaminekaba"
+social:
+  name: "SensingSkill"
+  links:
+    - https://github.com/mamadoulaminekaba/sensingskill.com
+
+# Defaults for content types
+defaults:
+  - scope:
+      path: "blog"
+      type: "posts"
+    values:
+      layout: "post"
+      license: "CC BY-NC 4.0"
+  - scope:
+      path: "templates"
+    values:
+      layout: "template"
+      license: "CC BY-NC 4.0"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude these files from the build
+exclude:
+  - README.md
+  - LICENSE
+  - LICENSE-CC-BY-NC.md
+  - Gemfile
+  - Gemfile.lock
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Sitemap settings
+sitemap:
+  changefreq: weekly
+  priority: 0.8
+  filename: sitemap.xml
+
+# Google Analytics (optional)
+google_analytics: ""  # Add your tracking ID here if needed
