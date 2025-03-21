@@ -1,79 +1,81 @@
 # sensingskill.com
     SensingSkill.com — AI-Supported LIS Knowledge Platform
     Empowering information professionals with human-executable, AI-generated content and manual LIS workflows.
+    
 🚀 Project Purpose
-    SensingSkill.com is an AI-enhanced, human-centered knowledge platform designed for librarians, archivists, and information professionals — especially those working in resource-limited environments.
+SensingSkill.com is an AI-enhanced, human-centered knowledge platform designed for librarians, archivists, and information professionals — especially those working in resource-limited environments.
+    
 
-The platform provides AI-generated guides, printable templates, and research content for manual or hybrid digital preservation, metadata organization, and LIS research workflows.
+    The platform provides AI-generated guides, printable templates, and research content for manual or hybrid digital preservation, metadata organization, and LIS research workflows.
 
 
 
 📂 Repository Structure
-/ (Root Directory)
+    / (Root Directory)
 
-├── _config.yml                   # Jekyll site configuration (metadata, plugins, SEO)
-
-
-├── index.md                      # Homepage content: mission and latest guides
+    ├── _config.yml                   # Jekyll site configuration (metadata, plugins, SEO)
 
 
-├── about.md                      # Project background, goals, and audience
+    ├── index.md                      # Homepage content: mission and latest guides
 
 
-├── blog/                         # AI-generated LIS research articles and studies
+    ├── about.md                      # Project background, goals, and audience
 
 
-    │    ├── metadata-guide.md
+    ├── blog/                         # AI-generated LIS research articles and studies
 
 
-    │    ├── digital-preservation.md
+        │    ├── metadata-guide.md
 
 
-    │    └── typology-study.md
+        │    ├── digital-preservation.md
 
 
-├── templates/                    # Printable LIS templates (MARC, Dublin Core, etc.)
+        │    └── typology-study.md
+    
+
+    ├── templates/                    # Printable LIS templates (MARC, Dublin Core, etc.)
 
 
-    │    ├── dublin-core-template.md
+        │    ├── dublin-core-template.md
 
-    │    ├── premise-template.md
+        │    ├── premise-template.md
 
-    │    └── mods-template.md
+        │    └── mods-template.md
 
-├── resources/                    # Visual infographics, diagrams, and PDFs
+    ├── resources/                    # Visual infographics, diagrams, and PDFs
 
-    │    ├── knowledge-graph.png
+        │    ├── knowledge-graph.png
 
-    │    └── preservation-workflow.pdf
+        │    └── preservation-workflow.pdf
 
-├── assets/                       # Design assets, custom styles, images
+    ├── assets/                       # Design assets, custom styles, images
 
-    │    ├── css/style.css
+        │    ├── css/style.css
 
-    │    ├── js/
+        │    ├── js/
 
-    │    └── images/
+        │    └── images/
 
-├── LICENSE                       # MIT License for the website's source code
+    ├── LICENSE                       # MIT License for the website's source code
 
-├── LICENSE-CC-BY-NC.md           # Creative Commons BY-NC License for AI-generated content
+    ├── LICENSE-CC-BY-NC.md           # Creative Commons BY-NC License for AI-generated content
 
-├── README.md                     # Project description and licensing guide
+    ├── README.md                     # Project description and licensing guide
 
-└── CNAME                         # Custom domain pointer (www.sensingskill.com)
+    └── CNAME                         # Custom domain pointer (www.sensingskill.com)
 
 🛠 Technology Stack
 
-Hosting: GitHub Pages
+    Hosting: GitHub Pages
 
-Static Site Generator: Jekyll
+    Static Site Generator: Jekyll
 
-AI Content Generation: GPT-4 (OpenAI) / Claude
+    AI Content Generation: GPT-4 (OpenAI) / Claude
 
-Multilingual Support: Google Translate API (future expansion)
+    Multilingual Support: Google Translate API (future expansion)
 
-Design: Minimal, academic, mobile-responsive
+    Design: Minimal, academic, mobile-responsive
 
 📜 Licensing Structure
 
@@ -104,56 +106,56 @@ Design: Minimal, academic, mobile-responsive
 
 💡 Example Licensing Flow
 
-Content: /assets/css/style.css	                
+    Content: /assets/css/style.css	                
 
-License: MIT
+    License: MIT
 
+    
 
+    Content: /blog/metadata-guide.md
 
-Content: /blog/metadata-guide.md
-
-License: CC BY-NC 4.0
-
-
-
-Content: /templates/dublin-core-template.md
-
-License: CC BY-NC 4.0
+    License: CC BY-NC 4.0
 
 
 
-Content: /resources/preservation-workflow.pdf	                               
+    Content: /templates/dublin-core-template.md
 
-License: CC BY-NC 4.0
+    License: CC BY-NC 4.0
+
+
+
+    Content: /resources/preservation-workflow.pdf	                               
+
+    License: CC BY-NC 4.0
 
 
 
 🤝 Contributing
 
-🚧 Collaborations and expert contributions are welcome in the future phases.
+    🚧 Collaborations and expert contributions are welcome in the future phases.
 
 
 📈 Future Features
 
- ✅ Printable PDFs for offline use
+    ✅ Printable PDFs for offline use
  
- ✅ LIS research lab section
+    ✅ LIS research lab section
  
- ✅ Metadata mapping models
+    ✅ Metadata mapping models
  
- ✅ Comparative studies between manual and AI workflows
+    ✅ Comparative studies between manual and AI workflows
 
 
 🌐 Visit the Platform
 
 
-🔗 Website: https://www.sensingskill.com
+    🔗 Website: https://www.sensingskill.com
 
 
 Contact the Platform
 
 
-📩 Contact: mamadoulkaba@outlook.com
+    📩 Contact: mamadoulkaba@outlook.com
 
 
 
