@@ -104,36 +104,55 @@ Design: Minimal, academic, mobile-responsive
 
 💡 Example Licensing Flow
 
-Content	                                License
-/assets/css/style.css	                MIT
+Content: /assets/css/style.css	                
 
-Content	                                License
-/blog/metadata-guide.md	                CC BY-NC 4.0
+License: MIT
 
-Content	                                License
-/templates/dublin-core-template.md	    CC BY-NC 4.0
 
-Content	                                License
-/resources/preservation-workflow.pdf	CC BY-NC 4.0
+
+Content: /blog/metadata-guide.md
+
+License: CC BY-NC 4.0
+
+
+
+Content: /templates/dublin-core-template.md
+
+License: CC BY-NC 4.0
+
+
+
+Content: /resources/preservation-workflow.pdf	                               
+
+License: CC BY-NC 4.0
 
 
 
 🤝 Contributing
+
 🚧 Collaborations and expert contributions are welcome in the future phases.
 
 
 📈 Future Features
+
  ✅ Printable PDFs for offline use
+ 
  ✅ LIS research lab section
+ 
  ✅ Metadata mapping models
+ 
  ✅ Comparative studies between manual and AI workflows
 
 
 🌐 Visit the Platform
+
+
 🔗 Website: https://www.sensingskill.com
 
 
 Contact the Platform
+
+
 📩 Contact: mamadoulkaba@outlook.com
 
 
