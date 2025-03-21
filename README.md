@@ -106,9 +106,16 @@ Design: Minimal, academic, mobile-responsive
 
 Content	                                License
 /assets/css/style.css	                MIT
+
+Content	                                License
 /blog/metadata-guide.md	                CC BY-NC 4.0
+
+Content	                                License
 /templates/dublin-core-template.md	    CC BY-NC 4.0
+
+Content	                                License
 /resources/preservation-workflow.pdf	CC BY-NC 4.0
+
 
 
 🤝 Contributing
@@ -124,6 +131,9 @@ Content	                                License
 
 🌐 Visit the Platform
 🔗 Website: https://www.sensingskill.com
+
+
+Contact the Platform
 📩 Contact: mamadoulkaba@outlook.com
 
 
