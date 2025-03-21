@@ -77,30 +77,27 @@ Design: Minimal, academic, mobile-responsive
 
 📜 Licensing Structure
 
-✅ 1. Website Source Code
+    ✅ 1. Website Source Code
 
-License: MIT License
+        License: MIT License
 
-Scope: HTML, CSS, JavaScript, Jekyll configurations, general site framework
+            Scope: HTML, CSS, JavaScript, Jekyll configurations, general site framework
 
-File: LICENSE
+            File: LICENSE
 
-Summary:
+                Summary: 
+                        ✅ Open-source — reusable and modifiable by anyone, including for commercial use.       
+                        ✅ No warranty. Attribution preferred.
 
-✅ Open-source — reusable and modifiable by anyone, including for commercial use.
+    ✅ 2. AI-Generated Content (Knowledge Packages, Research, Templates)
 
-✅ No warranty. Attribution preferred.
+        License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-✅ 2. AI-Generated Content (Knowledge Packages, Research, Templates)
+            Scope: All content in /blog/, /templates/, /resources/
 
-License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+            File: LICENSE-CC-BY-NC.md
 
-Scope: All content in /blog/, /templates/, /resources/
-
-File: LICENSE-CC-BY-NC.md
-
-Summary:
-
-✅ Allowed: Sharing, adapting, and using for non-commercial purposes with attribution
+                Summary: 
+                        ✅ Allowed: Sharing, adapting, and using for non-commercial purposes with attribution
 
 🚫 Not allowed: Commercial use without written permission
