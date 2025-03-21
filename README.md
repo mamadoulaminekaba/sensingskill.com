@@ -65,7 +65,7 @@
 
     └── .github/                     ✅ Hidden folder for GitHub-specific files
     
-      └── workflows/            ✅ Subfolder specifically for CI/CD workflows
+      └── workflows/                 ✅ Subfolder specifically for CI/CD workflows
       
             └── jekyll.yml 
 
