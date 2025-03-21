@@ -5,6 +5,9 @@ Empowering information professionals with human-executable, AI-generated content
 SensingSkill.com is an AI-enhanced, human-centered knowledge platform designed for librarians, archivists, and information professionals — especially those working in resource-limited environments.
 
 The platform provides AI-generated guides, printable templates, and research content for manual or hybrid digital preservation, metadata organization, and LIS research workflows.
+
+
+
 📂 Repository Structure
 / (Root Directory)
 ├── _config.yml                   # Jekyll site configuration (metadata, plugins, SEO)
