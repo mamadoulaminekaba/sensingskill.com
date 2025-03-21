@@ -63,6 +63,12 @@
 
     └── CNAME                         # Custom domain pointer (www.sensingskill.com)
 
+    └── .github/                     ✅ Hidden folder for GitHub-specific files
+    
+      └── workflows/            ✅ Subfolder specifically for CI/CD workflows
+      
+            └── jekyll.yml 
+
 🛠 Technology Stack
 
     Hosting: GitHub Pages
