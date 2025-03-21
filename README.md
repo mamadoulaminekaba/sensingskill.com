@@ -100,4 +100,32 @@ Design: Minimal, academic, mobile-responsive
                 Summary: 
                         ✅ Allowed: Sharing, adapting, and using for non-commercial purposes with attribution
 
-🚫 Not allowed: Commercial use without written permission
+                        🚫 Not allowed: Commercial use without written permission
+
+💡 Example Licensing Flow
+
+Content	                                License
+/assets/css/style.css	                MIT
+/blog/metadata-guide.md	                CC BY-NC 4.0
+/templates/dublin-core-template.md	    CC BY-NC 4.0
+/resources/preservation-workflow.pdf	CC BY-NC 4.0
+
+
+🤝 Contributing
+🚧 Collaborations and expert contributions are welcome in the future phases.
+
+
+📈 Future Features
+ ✅ Printable PDFs for offline use
+ ✅ LIS research lab section
+ ✅ Metadata mapping models
+ ✅ Comparative studies between manual and AI workflows
+
+
+🌐 Visit the Platform
+🔗 Website: https://www.sensingskill.com
+📩 Contact: mamadoulkaba@outlook.com
+
+
+
+                        
