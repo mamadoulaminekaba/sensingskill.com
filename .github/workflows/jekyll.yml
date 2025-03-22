@@ -2,7 +2,7 @@ name: Jekyll CI/CD Build and Deploy
 
 on:
   push:
-    branches: [ main ]   # Runs only when pushing to main branch
+    branches: [ main ]
 
 jobs:
   build-deploy:
@@ -17,15 +17,11 @@ jobs:
       with:
         ruby-version: 3.1
 
-    - name: Install Jekyll and Bundler
-      run: |
-        gem install bundler
-        bundle install || true  # Continue if Gemfile is missing
+    - name: Install Jekyll
+      run: gem install jekyll
 
     - name: Build Jekyll Site
-      run: |
-        bundle exec jekyll build
-        ls _site  # Optional: list the output to verify
+      run: jekyll build
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
