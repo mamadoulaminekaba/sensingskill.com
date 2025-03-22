@@ -2,6 +2,7 @@
 
 # Site settings
 title: "SensingSkill.com"
+theme: minima
 description: "AI-supported, human-centered LIS knowledge platform for manual and hybrid information workflows."
 url: "https://www.sensingskill.com"
 baseurl: ""  # Leave blank for GitHub Pages root deployment
