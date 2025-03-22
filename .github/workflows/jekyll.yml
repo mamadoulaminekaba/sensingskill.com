@@ -17,11 +17,14 @@ jobs:
       with:
         ruby-version: 3.1
 
-    - name: Install Jekyll
-      run: gem install jekyll
+    - name: Install Bundler
+      run: gem install bundler
+
+    - name: Install Dependencies (Jekyll + Minima Theme)
+      run: bundle install
 
     - name: Build Jekyll Site
-      run: jekyll build
+      run: bundle exec jekyll build
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
