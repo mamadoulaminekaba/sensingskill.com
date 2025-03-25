@@ -73,7 +73,7 @@
    
 		├── restore.md              # Restore guide
    
-		├── automation.md           # Cron job automation gu
+		├── automation.md           # Cron job automatiouide
 
 🛠 Technology Stack
 
