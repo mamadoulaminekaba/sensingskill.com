@@ -1,5 +1,5 @@
 # sensingskill.com
-     AI-Supported LIS Knowledge Platform	
+    AI-Supported LIS Knowledge Platform	
 	Empowering information professionals with human-executable, AI-generated content and manual LIS workflows.
 
 	🚀 Project Purpose
