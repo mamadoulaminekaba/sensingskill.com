@@ -71,7 +71,7 @@
 
    	 		├── backup.md               # Backup process guide
 
-    		├── restore.md           # Restore guide
+    		├── restore.md          	 # Restore guide
 
     		├── automation.md           # Cron job automation guide
 
