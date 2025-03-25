@@ -64,18 +64,16 @@
 	│       └── jekyll.yml          # ✅ GitHub Actions CI/CD workflow
 
 	└── docs/                       # 📚 Deployment and workflow documentation
-
-    		├── README.md               # Documentation index
-
-    		├── cloning.md           # H# How to clone the r
-
-   	 		├── backup  	    # Backup process guide 
-
-    		├── restore.md           # Restore guide    
-
-    		├── automation.md           # Cron job automation guide
-
-
+    	
+		├── README.md               # Documentation index
+    	
+		├── cloning.md              # How to clone the repo
+    
+		├── backup.md               # Backup process guide
+   
+		├── restore.md              # Restore guide
+   
+		├── automation.md           # Cron job automation gu
 
 🛠 Technology Stack
 
