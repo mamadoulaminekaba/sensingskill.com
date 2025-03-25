@@ -7,31 +7,16 @@ Welcome to the sensingskill.com project repository! This `/docs/` folder contain
 ✅ Restore the latest backup while preserving access to older backups  
 ✅ Automate backups using cron  
 
-## 📥 Cloning Guide
-Learn how to clone the repository to your local machine using Git.
+Each guide is available as a separate `.md` file for easy reference.
 
-## 🗄 Backup Guide
-Complete steps to:
-- Run manual backups of the repository
-- Set up timestamped backups to iCloud Drive
-- Understand the directory structure
-
-## 🔄 Restore Guide
-Instructions to:
-- Restore your repository from the latest backup
-- Keep older backups for reference or full history
-
-## ⏰ Automation Guide (Cron Jobs)
-How to:
-- Automate daily and weekly backups using crontab
-- Manage cron jobs
-- Ensure logs are saved for verification
-
-## 📌 Reminder
-This `/docs/` folder is part of the repository to help developers replicate the iCloud-based backup and restore process — ensuring portability and transparency for anyone cloning this project.
-
-For any contribution or update to the process, edit the relevant `.md` file inside `/docs/`.
+## 📥 Guides:
+- [Cloning Guide](cloning.md)
+- [Backup Guide](backup.md)
+- [Restore Guide](restore.md)
+- [Automation Guide (Cron)](automation.md)
 
 ---
+
+For any contribution or update to the process, edit the relevant `.md` file inside `/docs/`.
 
 Happy coding! 🎉
