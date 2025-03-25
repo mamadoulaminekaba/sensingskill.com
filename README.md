@@ -12,67 +12,69 @@
 📂 Project Directory Structure
 
 
-├── _config.yml                 # Jekyll site configuration (metadata, plugins, SEO)
 
-├── index.md                    # Homepage content: mission and latest guides
+	├── _config.yml                 # Jekyll site configuration (metadata, plugins, SEO)
 
-├── about.md                    # Project background, goals, and audience
+		├── index.md                    # Homepage content: mission and latest guides
 
-├── blog/                       # AI-generated LIS research articles and studies
+		├── about.md                    # Project background, goals, and audience
 
-│   ├── metadata-guide.md
+		├── blog/                       # AI-generated LIS research articles and studies
 
-│   ├── digital-preservation.md
+			│   ├── metadata-guide.md
 
-│   └── typology-study.md
+			│   ├── digital-preservation.md
 
-├── templates/                  # Printable LIS templates (MARC, Dublin Core, etc.)
+			│   └── typology-study.md
 
-│   ├── dublin-core-template.md
+		├── templates/                  # Printable LIS templates (MARC, Dublin Core, etc.)
 
-│   ├── premise-template.md
+			│   ├── dublin-core-template.md
 
-│   └── mods-template.md
+			│   ├── premise-template.md
 
-├── resources/                  # Visual infographics, diagrams, and PDFs
+			│   └── mods-template.md
 
-│   ├── knowledge-graph.png
+		├── resources/                  # Visual infographics, diagrams, and PDFs
 
-│   └── preservation-workflow.pdf
+			│   ├── knowledge-graph.png
 
-├── assets/                     # Design assets, custom styles, images
+			│   └── preservation-workflow.pdf
 
-│   ├── css/style.css
+		├── assets/                     # Design assets, custom styles, images
 
-│   ├── js/
+			│   ├── css/style.css
 
-│   └── images/
+			│   ├── js/
 
-├── LICENSE                     # MIT License for the website's source code
+			│   └── images/
 
-├── LICENSE-CC-BY-NC.md         # Creative Commons BY-NC License for AI-generated content
+	├── LICENSE                     # MIT License for the website's source code
 
-├── README.md                   # Project description and licensing guide (this file)
+	├── LICENSE-CC-BY-NC.md         # Creative Commons BY-NC License for AI-generated content
 
-├── CNAME                       # Custom domain pointer (www.sensingskill.com)
+	├── README.md                   # Project description and licensing guide (this file)
 
-├── .github/                    # ✅ Hidden folder for GitHub-specific files
+	├── CNAME                       # Custom domain pointer (www.sensingskill.com)
 
-│   └── workflows/
+	├── .github/                    # ✅ Hidden folder for GitHub-specific files
 
-│       └── jekyll.yml          # ✅ GitHub Actions CI/CD workflow
+		│   └── workflows/
 
-└── docs/                       # 📚 Deployment and workflow documentation
+	│       └── jekyll.yml          # ✅ GitHub Actions CI/CD workflow
 
-    ├── README.md               # Documentation index
+	└── docs/                       # 📚 Deployment and workflow documentation
 
-    ├── cloning.md              # How to clone the repo
+    		├── README.md               # Documentation index
 
-    ├── backup.md               # Backup process guide
+    		├── cloning.md              # How to clone the repo
 
-    ├── restore.md              # Restore guide
+   	 	├── backup.md               # Backup process guide
 
-    ├── automation.md           # Cron job automation guide
+    		├── restore.md              # Restore guide
+
+    		├── automation.md           # Cron job automation guide
+
 
 
 🛠 Technology Stack
