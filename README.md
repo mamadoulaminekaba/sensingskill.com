@@ -69,7 +69,7 @@
 
     		├── cloning.md              # How to clone the r
 
-   	 	├── backup.md               # Backup process guide
+   	 		├── backup.md               # Backup process guide
 
     		├── restore.md           # Restore guide
 
