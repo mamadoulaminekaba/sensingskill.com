@@ -67,7 +67,7 @@
 
     		├── README.md               # Documentation index
 
-    		├── cloning.md              # How to clone the repo
+    		├── cloning.md              # How to clone the r
 
    	 	├── backup.md               # Backup process guide
 
