@@ -67,9 +67,9 @@
 
     		├── README.md               # Documentation index
 
-    		├── cloning.md              # How to clone the r
+    		├── cloning.md           # H# How to clone the r
 
-   	 		├── backup       # Backup process guide 
+   	 		├── backup  	    # Backup process guide 
 
     		├── restore.md           # Restore guide    
 
