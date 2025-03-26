@@ -1,0 +1,24 @@
+{
+  "title": "",
+  "description": "",
+  "library_type": "",
+  "workflow_stage": "",
+  "metadata_models": [],
+  "data_sources": [],
+  "keywords": [],
+  "extracted_data": {
+    "entities": [],
+    "relationships": [],
+    "controlled_vocabularies": []
+  },
+  "ai_generated_content": {
+    "summary": "",
+    "step_by_step_workflow": [],
+    "metadata_examples": [],
+    "visual_aids": []
+  },
+  "translation_targets": ["en"],
+  "licensing": "CC BY-NC 4.0",
+  "generation_timestamp": ""
+}
+
