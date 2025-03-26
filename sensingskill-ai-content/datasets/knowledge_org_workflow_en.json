@@ -1,0 +1,19 @@
+{
+  "workflow": "Knowledge Organization",
+  "language": "en",
+  "description": "This dataset contains the super workflow steps for library and information professionals to execute knowledge organization in both analog and digital environments.",
+  "steps": [
+    "Analyze the nature and format of information resources.",
+    "Determine appropriate metadata standards (MARC, Dublin Core, BIBFRAME, MODS, etc.).",
+    "Conduct subject analysis and apply controlled vocabulary (LCSH, MeSH, AAT).",
+    "Establish authority control for names, subjects, and titles.",
+    "Design and create resource descriptions using cataloging rules (RDA, ISBD).",
+    "Assign classification numbers and indexing terms.",
+    "Validate metadata against authority files and controlled vocabularies.",
+    "Publish records to bibliographic databases or digital repositories.",
+    "Ensure ongoing metadata maintenance and version control.",
+    "Facilitate user access through discovery tools and search interfaces."
+  ],
+  "license": "CC BY-NC 4.0",
+  "generated_by": "SensingSkill.com AI Pipeline"
+}
