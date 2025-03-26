@@ -1,0 +1,47 @@
+{
+  "workflow_title": "Knowledge Organization Workflow",
+  "description": "Template for structuring LIS knowledge organization tasks.",
+  "source": "AI Generated / Textbook Extraction",
+  "tasks": [
+    {
+      "step": 1,
+      "action": "Data Collection",
+      "tools": ["Wikipedia API", "Wikidata SPARQL", "LOC Subject Headings"],
+      "output": "Raw Data (JSON/CSV/YAML)"
+    },
+    {
+      "step": 2,
+      "action": "Metadata Extraction",
+      "standards": ["Dublin Core", "MARC21", "MODS"],
+      "output": "Structured Metadata"
+    },
+    {
+      "step": 3,
+      "action": "Data Normalization",
+      "tools": ["Python Scripts", "Pandas"],
+      "output": "Cleaned Dataset"
+    },
+    {
+      "step": 4,
+      "action": "Knowledge Synthesis",
+      "AI_models": ["GPT-4", "Claude"],
+      "output": "Draft LIS Knowledge Content (Markdown)"
+    },
+    {
+      "step": 5,
+      "action": "Metadata Tagging",
+      "output": "Tagged Content with Metadata Models"
+    },
+    {
+      "step": 6,
+      "action": "Multilingual Translation",
+      "output": "Language Variants (Markdown)"
+    },
+    {
+      "step": 7,
+      "action": "PDF Conversion",
+      "tool": "Pandoc",
+      "output": "Downloadable PDF"
+    }
+  ]
+}
